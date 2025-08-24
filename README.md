@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-本项目基于 [xyzrank](https://github.com/xyzrank/xyzrank) 的播客数据，整合了Git历史数据和Excel基础信息，创建了一个包含7,378个播客完整订阅变化时间线的综合数据库。
+本项目基于 [xyzrank](https://github.com/xyzrank/xyzrank) 的播客数据，整合了Git历史数据和我个人项目积累的 Excel基础信息，创建了一个包含7,378个播客完整订阅变化时间线的综合数据库。
 
 ## 数据来源
 
